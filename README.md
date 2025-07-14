@@ -1,2 +1,2 @@
 # House_Price_Pred
-LinearRegression and XGBRegressor
+Using **LinearRegression** and **XGBRegressor** 
